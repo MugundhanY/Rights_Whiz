@@ -1,4 +1,4 @@
-**Rights Whiz: Gamified Rights Awareness for Kids**
+#Rights Whiz: Gamified Rights Awareness for Kids
 **Welcome to Rights Whiz!**
 
 This project is an engaging Flutter app built with Firebase, designed to empower kids with knowledge and awareness about their rights through a gamified platform.
