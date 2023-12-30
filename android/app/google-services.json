@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916972188633",
+    "project_id": "rights-whiz",
+    "storage_bucket": "rights-whiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916972188633:android:b57830ff04789fa4965fc8",
+        "android_client_info": {
+          "package_name": "com.example.app_name"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0l_WePmE8lj6XVERFHpK45smVucEkcfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
